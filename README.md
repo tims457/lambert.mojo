@@ -1,2 +1,4 @@
-# lambert.mojo
-Lambert solvers in Mojo
+# Lambert.mojo
+Lambert solvers in Mojo.
+
+
